@@ -30,7 +30,7 @@ A[i][j] = n*Array_A[i][j];
 }
 cout<<endl;
 
-//menampilan hasil perkalian matriks dengan eksponen
+//menampilkan hasil perkalian matriks dengan eksponen
 cout<<"Hasil perkalian Array A dengan eksponen 5"<<endl;
 	for(i=0;i<2;i++){
 		for(j=0;j<2;j++){
